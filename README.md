@@ -72,21 +72,13 @@
 <h3 align="center">Languages & Development</h3>
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java"/>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python"/>
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" alt="TypeScript"/>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" alt="JavaScript"/>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" alt="React"/>
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,react,mysql&theme=dark" alt="Languages and Development"/>
 </p>
 
 <h3 align="center">Tools & Technologies</h3>
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" alt="Docker"/>
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55" height="55" alt="AWS"/>
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" alt="REST API"/>
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="55" height="55" alt="GraphQL"/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,graphql,html,css,git,github,vscode&theme=dark" alt="Tools and Technologies"/>
 </p>
 
 <p align="center">
