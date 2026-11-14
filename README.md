@@ -82,10 +82,6 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=dark" alt="Additional tools"/>
-</p>
-
-<p align="center">
   <sub>Technologies I'm learning, exploring, or using in my projects.</sub>
 </p>
 
